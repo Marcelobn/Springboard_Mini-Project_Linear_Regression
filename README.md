@@ -1,1 +1,0 @@
-# Springboard_Mini-Project_Linear_Regression
